@@ -1,3 +1,11 @@
+Student Name: PARIKSHITH D
+Email: parikshith.official.in@gmail.com
+Team Number: 5
+GitHub Username: https://github.com/Parigowda007/Second-PRD
+Assigned Requirement Number: 3
+Project Title: Mock Test Attempt Manager
+
+
 Requirement 3 – Mock Test Attempt Manager
 
 Objective:
@@ -28,3 +36,29 @@ Java Concepts Used:
 * Ternary operator (? :)
 * Variables and data types
 * Conditional statements (if, else)
+
+
+
+OUTPUT EXPECTED:
+
+
+===== MOCK TEST ATTEMPT REPORT =====
+
+Attempt 1
+Score : 53
+Correct Answers : 26
+Incorrect Answers : 24
+Result : Failed
+Remaining Attempts : 2
+Recommendation : Practice and try again.
+
+Attempt 2
+Score : 66
+Correct Answers : 33
+Incorrect Answers : 17
+Result : Passed
+Recommendation : Good Job
+
+Best Score : 66
+Final Result : MOCK TEST CLEARED
+Message : Student passed on attempt 2.

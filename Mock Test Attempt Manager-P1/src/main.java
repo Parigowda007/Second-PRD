@@ -4,9 +4,9 @@ public class MockTestAttemptManager {
     public static void main(String[] args) {
 
         // Hard-coded values
-        int[] scores = {53, 66, 72};
-        int[] correct = {26, 33, 38};
-        int[] incorrect = {24, 17, 12};
+        int[] scores = {44, 31, 69};
+        int[] correct = {26, 15, 38};
+        int[] incorrect = {24, 25, 12};
 
         int passMark = 60;
         int maxAttempts = 3;
