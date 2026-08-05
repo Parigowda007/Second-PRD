@@ -1,3 +1,14 @@
+Student Name: PARIKSHITH D
+Email: parikshith.official.in@gmail.com
+Team Number: 05
+GitHub Username: https://github.com/Parigowda007/Second-PRD
+Requirement Number: 03
+Project Title: Mock Test Attempt Manager
+Repository URL: https://github.com/Parigowda007/Second-PRD
+Submission Time: 8.00 pm
+Submission Status: Submitted
+
+
 🎯 Mock Test Attempt Manager
 
 A Java console application that manages a student's mock-test attempts, evaluates performance, tracks the best score, and determines whether the student has successfully cleared the mock test.
