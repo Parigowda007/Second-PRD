@@ -1,19 +1,39 @@
 Student Name: PARIKSHITH D
+
 Email: parikshith.official.in@gmail.com
+
 Team Number: 05
+
 GitHub Username: https://github.com/Parigowda007/Second-PRD
+
 Requirement Number: 03
+
 Project Title: Mock Test Attempt Manager
+
 Repository URL: https://github.com/Parigowda007/Second-PRD
+
 Submission Time: 8.00 pm
+
 Submission Status: Submitted
+
+
+
+
+
 
 
 🎯 Mock Test Attempt Manager
 
+
 A Java console application that manages a student's mock-test attempts, evaluates performance, tracks the best score, and determines whether the student has successfully cleared the mock test.
 
 This project demonstrates fundamental Java programming concepts, including loops, operators, conditional statements, and decision-making logic.
+
+
+
+
+
+
 
 
 
@@ -39,6 +59,10 @@ Display the final result and recommendation
 
 
 
+
+
+
+
 📊 Hard-Coded Test Data
 
 The program uses hard-coded values for three mock-test attempts.
@@ -55,6 +79,11 @@ Attempt	Score	Result
 1	48	❌ Failed
 2	57	❌ Failed
 3	68	✅ Passed
+
+
+
+
+
 
 
 
@@ -77,6 +106,11 @@ The program automatically stops evaluating further attempts once the student ach
 
 
 
+
+
+
+
+
 🧠 Java Concepts Used
 
 This project demonstrates the following Java concepts:
@@ -89,6 +123,12 @@ Relational operators
 Logical operators
 Nested conditions
 Ternary operator
+
+
+
+
+
+
 
 
 
@@ -133,6 +173,12 @@ END
 
 
 
+
+
+
+
+
+
 💻 Sample Output
 
 MOCK TEST ATTEMPT REPORT
@@ -158,6 +204,13 @@ Message: Student passed on attempt 3.
 
 
 
+
+
+
+
+
+
+
 🚀 How to Run
 
 1. Clone the repository
@@ -177,12 +230,31 @@ Replace Main.java with your actual Java class/file name if it is different.
 
 
 
+
+
+
+
+
+
+
+
 📂 Project Structure
 
 Mock-Test-Attempt-Manager/
 │
 ├── Main.java
 └── README.md
+
+
+
+
+
+
+
+
+
+
+
 🎯 Learning Outcomes
 Through this project, I practiced:
 
@@ -197,12 +269,27 @@ Building a structured Java console application
 
 
 
+
+
+
+
+
+
+
+
+
+
 🛠️ Technologies Used
 Java Git GitHub
 
 Language: Java
 Version Control: Git
 Repository Hosting: GitHub
+
+
+
+
+
 
 
 👨‍💻 Author
