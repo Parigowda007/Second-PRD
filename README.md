@@ -1,9 +1,15 @@
 🎯 Mock Test Attempt Manager
+
 A Java console application that manages a student's mock-test attempts, evaluates performance, tracks the best score, and determines whether the student has successfully cleared the mock test.
 
 This project demonstrates fundamental Java programming concepts, including loops, operators, conditional statements, and decision-making logic.
 
+
+
+
 📌 Problem Statement
+
+
 Create a Java program that manages a student's mock-test attempts.
 
 The student is allowed a maximum of 3 attempts to achieve the required passing score.
@@ -17,7 +23,13 @@ Stop evaluating when the student passes
 Track the student's best score
 Display the number of remaining attempts
 Display the final result and recommendation
+
+
+
+
+
 📊 Hard-Coded Test Data
+
 The program uses hard-coded values for three mock-test attempts.
 
 Each attempt contains:
@@ -25,13 +37,19 @@ Each attempt contains:
 Score
 Correct answers
 Incorrect answers
+
 Example:
 
 Attempt	Score	Result
 1	48	❌ Failed
 2	57	❌ Failed
 3	68	✅ Passed
+
+
+
+
 ✨ Features
+
 The application displays:
 
 Attempt number
@@ -45,7 +63,11 @@ Final result
 Recommendation
 The program automatically stops evaluating further attempts once the student achieves the passing score.
 
+
+
+
 🧠 Java Concepts Used
+
 This project demonstrates the following Java concepts:
 
 while / do-while loop
@@ -56,7 +78,12 @@ Relational operators
 Logical operators
 Nested conditions
 Ternary operator
+
+
+
+
 🔄 Program Flow
+
 START
   |
   v
@@ -91,7 +118,12 @@ Display Final Result
   |
   v
 END
+
+
+
+
 💻 Sample Output
+
 MOCK TEST ATTEMPT REPORT
 
 Attempt 1
@@ -111,7 +143,12 @@ Result: Passed
 Best Score: 68
 Final Result: MOCK TEST CLEARED
 Message: Student passed on attempt 3.
+
+
+
+
 🚀 How to Run
+
 1. Clone the repository
 git clone <your-repository-url>
 2. Open the project
@@ -127,7 +164,10 @@ javac Main.java
 java Main
 Replace Main.java with your actual Java class/file name if it is different.
 
+
+
 📂 Project Structure
+
 Mock-Test-Attempt-Manager/
 │
 ├── Main.java
@@ -143,12 +183,17 @@ Implementing nested conditions
 Tracking values such as best score
 Controlling program execution based on conditions
 Building a structured Java console application
+
+
+
 🛠️ Technologies Used
 Java Git GitHub
 
 Language: Java
 Version Control: Git
 Repository Hosting: GitHub
+
+
 👨‍💻 Author
 Parikshith D
 
